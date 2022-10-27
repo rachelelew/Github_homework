@@ -8,3 +8,5 @@
 \f0\fs24 \cf0 Hi! I\'92m Rachel.\
 My research interests include marine soundscapes and how they alter with climate change.\
 }
+
+My name is Harris Krasner and I am interested in the field of marine biology, specifically shark research. 
